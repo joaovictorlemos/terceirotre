@@ -1,0 +1,1 @@
+alert('fala meus mano do 2d');
